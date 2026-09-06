@@ -24,8 +24,8 @@ Plain HTML/CSS/JS personal academic site. No build step — open
 5. **Papers** — add/edit entries in the `PAPERS` array in `js/data.js`. Set
    `MY_NAME` at the top of that file to match how your name appears in
    author lists, and it'll be bolded automatically.
-6. **CV** — drop your PDF at `cv/CV.pdf`. The nav's "CV" link downloads it
-   directly; there's no separate CV section on the page.
+6. **CV** — drop your PDF at `cv/CV.pdf`. The nav's "CV" link opens it in a
+   new tab for viewing; there's no separate CV section on the page.
 7. **Contact/social links** (Email, Google Scholar, LinkedIn, GitHub,
    Twitter/X) — edit the `links-row` div directly in `index.html`, under
    the bio section.
