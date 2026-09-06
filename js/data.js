@@ -16,7 +16,7 @@ const EDUCATION = [
 // News items — newest first. `date` is just a display string.
 const NEWS = [
   { date: "Jun 2026", text: "I won the UCSC CSE Excellent Ph.D. Award." },
-  { date: "Jun 2026", text: 'I defended my thesis, "Security of Autonomous Decision Agents: From Control Systems to Embodied AI."' },
+  { date: "Jun 2026", text: 'I defended my thesis, "Security of Autonomous Decision-making Agents: From Control Systems to Embodied AI."' },
   { date: "Dec 2025", text: 'Our paper, "CHAI: Command Hijacking against Embodied AI," was accepted at SaTML.' },
   { date: "Dec 2025", text: 'Our paper, "BADControl: Backdoor Attacks against Control Systems," was accepted at USENIX Security.' },
 ];
